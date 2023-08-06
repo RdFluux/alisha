@@ -21,7 +21,7 @@
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject",
-		"Choru-tiktokers"
+		"Draff"
 	],
 	"author": "Draffodils",
 	"info": "2024",
