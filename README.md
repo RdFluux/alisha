@@ -1,7 +1,7 @@
 {
 	"name": "Draffodils",
 	"version": "2.0.1",
-	"description": "A beautiful flower bot for Facebook Messenger.",
+	"description": "A test version bot for Facebook Messenger.",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "pm2 kill && pm2 start index.js -i 1 --no-daemon",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ChoruTiktokers182/Choru-bypass/issues"
+		"url": "https://github.com/RdFluux/alisha/issues/1"
 	},
 	"keywords": [
 		"bot",
@@ -23,13 +23,13 @@
 		"miraipr0ject",
 		"Choru-tiktokers"
 	],
-	"author": "Your Name",
-	"info": "I love flowers and nature.",
+	"author": "Draffodils",
+	"info": "2024",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/ChoruTiktokers182/Choru-bypass/issues"
+		"url": "https://github.com/RdFluux/alisha/issues/1"
 	},
-	"homepage": "https://github.com/ChoruTiktokers182/Choru-bypass/issues",
+	"homepage": "https://github.com/RdFluux/alisha/issues/1",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
